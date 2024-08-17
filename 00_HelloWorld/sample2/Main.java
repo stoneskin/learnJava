@@ -1,4 +1,5 @@
-
+package sample2;
+import sample2.Hello;
 public class Main {
 
     public static void main(String[] args) {

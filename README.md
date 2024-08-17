@@ -1,24 +1,12 @@
-# learnJava
-Learning Java for AP Computer Science A  
+# Learn Java
 
-## 0 HelloWorld example
+**Learning Java for AP Computer Science A**  
 
-```java
-//HelloWorld.java
-public class HelloWorld {
-    public static void main(String[] args) {
-      System.out.println("Hello World");
-    }
-  }
-```
+Code example for my Java Coding Class <https://stoneskin.github.io/Java/>
 
-- Build 
-    `javac HelloWorld.java`
-- Run 
-    `java HelloWorld`
+## 00 - [HelloWorld Code Samples and Java build](./00_HelloWorld/00_helloworld.md)
 
-- make a jar file for multiple java files
-    `jar cf HelloWorld.jar HelloWorld.class`
-
-- run jar file
-    `jar -jar HelloWorld.jar`
+ - Run and build Java file
+ - Sample 1:  HelloWorld.java
+ - Sample 2:  Multiple Java files
+ - use MANIFEST.MF file to build a Jar file
