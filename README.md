@@ -4,9 +4,11 @@
 
 Code example for my Java Coding Class <https://stoneskin.github.io/Java/>{:target="_blank"}
 
+**Code of this page**: <https://github.com/stoneskin/learnJava>
+
 ## Part 0 - Preparation for Class
 
-### 00 - [HelloWorld Code Samples and Java build](./00_HelloWorld/00_helloworld.md){:target="_blank"}
+### 00 - [HelloWorld Code Samples and Java build](./00_HelloWorld/index.md){:target="_blank"}
 
     - Run and build Java file
     - Sample 1:  HelloWorld.java
@@ -15,7 +17,12 @@ Code example for my Java Coding Class <https://stoneskin.github.io/Java/>{:targe
 
 ## Part 2 - Introduction to Programming
 
-### 01 - Java Fundamentals
+### 01 - [Java Fundamentals](./01_JavaFundamentals/){:target="_blank"}
+
+    - Variables
+    - Data Types
+    - Operators
+    - Practices
 
 ### 02 - Introduction to Input/Output
 
@@ -26,3 +33,5 @@ Code example for my Java Coding Class <https://stoneskin.github.io/Java/>{:targe
 ### 05 - Methods
 
 ### 06 - Debugging Techniques
+
+
