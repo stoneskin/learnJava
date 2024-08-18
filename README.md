@@ -22,9 +22,15 @@ Code example for my Java Coding Class <https://stoneskin.github.io/Java/>{:targe
     - Variables
     - Data Types
     - Operators
-    - Practices
+    
 
-### 02 - Introduction to Input/Output
+### 02 - [Introduction to Input/Output](./02_Introduction_InputOutput/){:target="_blank"}
+
+    - System.out 
+    - System.in
+    - Scanner 
+    - PrintWriter 
+    - File I/O
 
 ### 03 - Control Flow Statements
 
