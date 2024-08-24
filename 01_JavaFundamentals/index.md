@@ -166,13 +166,10 @@ also call Comparison Operators
 ### 4.1 Multiple Choice
 
 1. What is the correct way to declare a variable of type integer with a value of 100?
-    > a) int x = 100;<br> b) integer x = 100;<br> c) x = 100;<br> d) int x = 100.0;
+    > a) int x = 100; <br> b) integer x = 100; <br> c) x = 100; <br> d) int x = 100.0;
 
 2. Which of the following is not a primitive data type in Java?
-    > a) int
-    > b) float
-    > c) String
-    > d) char
+    > a) int <br>  b) float <br>  c) String <br>  d) char
 
 3. What is the output of the following code?
 
@@ -184,10 +181,10 @@ also call Comparison Operators
     > a) 3 <br> b) 1<br> c) 0<br> d) 3.33
 
 4. Which operator is used for logical AND in Java?
-    > a) &
-     b) ||
-     c) &&
-     d) AND
+    > a) &  <br> 
+     b) ||  <br> 
+     c) &&  <br> 
+     d) AND 
 
 5. What is the result of the following expression?
 
@@ -196,11 +193,10 @@ also call Comparison Operators
     >    boolean y = false;
     >    System.out.println(x || y);
     >```
-    > a) true
-     b) false
-     c) 1
+    > a) true <br>
+     b) false <br>
+     c) 1 <br>
      d) 0
-    
 
 6. What is the value of the variable x after the following code executes?
     
