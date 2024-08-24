@@ -166,22 +166,22 @@ also call Comparison Operators
 ### 4.1 Multiple Choice
 
 1. What is the correct way to declare a variable of type integer with a value of 100?
-    a) int x = 100;
-    b) integer x = 100;
-    c) x = 100;
-    d) int x = 100.0;
+    > a) int x = 100;
+    > b) integer x = 100;
+    > c) x = 100;
+    > d) int x = 100.0;
 
 2. Which of the following is not a primitive data type in Java?
-    a) int
-    b) float
-    c) String
-    d) char
+    > a) int
+    > b) float
+    > c) String
+    > d) char
 
 3. What is the output of the following code?
-    a) 3
-    b) 1
-    c) 0
-    d) 3.33
+    > a) 3
+    > b) 1
+    > c) 0
+    > d) 3.33
 
 ```java
     int a = 10;
@@ -190,16 +190,16 @@ also call Comparison Operators
 ```
  
 4. Which operator is used for logical AND in Java?
-    a) &
-    b) ||
-    c) &&
-    d) AND
+    > a) &
+    > b) ||
+    > c) &&
+    > d) AND
 
 5. What is the result of the following expression?
-    a) true
-    b) false
-    c) 1
-    d) 0
+    > a) true
+    > b) false
+    > c) 1
+    > d) 0
     
 ```java
     boolean x = true;
@@ -208,24 +208,25 @@ also call Comparison Operators
 ```
 
 6. What is the value of the variable x after the following code executes?
-    a) 5
-    b) 3
-    c) 8
-    d) 2
+    > a) 5
+    > b) 3
+    > c) 8
+    > d) 2
+    
 ```Java
     int x = 5;
     x += 3;
 ```
 7. Which operator would you use to determine if a number is even
-    a) /
-    b) %
-    c) *
-    d) +
+    > a) /
+    > b) %
+    > c) *
+    > d) +
 8. Given the declaration int num = 10;, which of the following is a valid way to decrement the value of num by 2?
-    a) num = num - 2;
-    b) num -= 2;
-    c) num--; num--;
-    d) All of the above
+    > a) num = num - 2;
+    > b) num -= 2;
+    > c) num--; num--;
+    > d) All of the above
 
 ### 4.2 Short Answer
 
