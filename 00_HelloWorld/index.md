@@ -171,11 +171,12 @@ Below files in folder `sample2`, also defined as package.
 - What's the different of BlueJ from others Java IDEs?
   Put you answer as comments of [gist Java_01-7](https://gist.github.com/stoneskin/f5de47688f279eee5c903875c0ea648c)
 
-- Try some AI tool too see how you could learn programming
+- Try some AI tool to see how it could help you learn programming
 
   - <https://chatgpt.com/>{:target="_blank"}
   - <https://gemini.google.com/app>{:target="_blank"}
   - <https://www.perplexity.ai/>{:target="_blank"} (Best AI tool for learning)
   - <https://arena.lmsys.org/>{:target="_blank"} (compare results any two ai,choice `sus-column-r` for Grok2)
 
+ <br>  <br> 
 ***Code of this page <https://github.com/stoneskin/learnJava/tree/main/00_HelloWorld>***
