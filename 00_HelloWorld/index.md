@@ -30,10 +30,14 @@ And answer the question base your understanding at [gist Java_01-2](https://gist
 
 ## 5 Install Java IDE (Integrated Development Environment)
 
-- [Download VSCode](https://code.visualstudio.com/download){:target="_blank"}
-  - [Getting Started with Java in VSCode](https://code.visualstudio.com/docs/java/java-tutorial)
-- [BlueJ](https://bluej.org){:target="_blank"} Best for OODP part of this class
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/{:target="_blank"})
+- [VSCode](https://code.visualstudio.com/download){:target="_blank"} 
+  - [Getting Started with Java in VSCode](https://code.visualstudio.com/docs/java/java-tutorial){:target="_blank"} 
+  - It's our main java Editor
+- [BlueJ](https://bluej.org){:target="_blank"} 
+  - We use it to create new Java project and Learn Object Oriented Programming with it
+  - [BlueJ installation](https://www.bluej.org/generic-installation-instructions.html){:target="_blank"} 
+  - [How to use blueJ](https://www.bluej.org/tutorial/tutorial-201.pdf){:target="_blank"} 
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/){:target="_blank"}  
 - [Eclipse](https://eclipseide.org/){:target="_blank"}
 
 

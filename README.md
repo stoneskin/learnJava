@@ -1,4 +1,20 @@
-# Learn Java
+# Learn Java 
+
+## [G9+ Advance Class] Java programming & Algorithms
+
+This class provides a 30-lesson `AP Computer Science A` tutoring course designed to support high school students in their independent practice outside of school.
+
+## Requirements
+
+Each student needs below items for this class**
+
+1. A Laptop with at least 8G memory with internet access.
+2. An email account for receiving emails.
+3. An account of <https://github.com/>{:target="_blank"}
+4. Install VSCode with Java extension
+5. Install BlueJ for Java IDE to create Java project
+
+## Content of Class
 
 **Learning Java for AP Computer Science A Exam**  
 
@@ -7,19 +23,9 @@
 
 ## Part 0 - Preparation for Class
 
-### 00 - [HelloWorld Code Samples and Java build](./00_HelloWorld/index.md){:target="_blank"}
-<details>
-  <summary>details</summary>
-    - Run and build Java file
-    - Sample 1:  HelloWorld.java
-    - Sample 2:  Multiple Java files
-    - use MANIFEST.MF file to build a Jar file
-</details>
-
 ### Part 0: preparation for the class (1 Lesson)
 
-- Lesson 0: [Introduction to AP CSA, Course Overview and Get Start Java programming Environment](00_Getting_Stared_with_Java_Hello_World.md){:target="_blank"}
-   Learn Java [HelloWorld Samples](./00_HelloWorld/index.md){:target="_blank"}
+- Lesson 0: [Introduction to AP CSA, Course Overview and Get Start Java programming Environment](./00_HelloWorld/index.md){:target="_blank"}
 
 ### Part 1: Introduction to Programming (6 Lessons)
 
