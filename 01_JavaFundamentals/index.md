@@ -204,21 +204,21 @@ also call Comparison Operators
     >    int x = 5;
     >    x += 3;
     >```
-    > a) 5
-     b) 3
-     c) 8
+    > a) 5  <br> 
+     b) 3 <br> 
+     c) 8 <br> 
      d) 2
 
 7. Which operator would you use to determine if a number is even
-    > a) /
-    > b) %
-    > c) *
-    > d) +
+    > a) /  <br> 
+     b) % <br> 
+     c) * <br> 
+     d) +
 8. Given the declaration int num = 10;, which of the following is a valid way to decrement the value of num by 2?
-    > a) num = num - 2;
-    > b) num -= 2;
-    > c) num--; num--;
-    > d) All of the above
+    > a) num = num - 2; <br> 
+     b) num -= 2; <br> 
+     c) num--; num--; <br> 
+     d) All of the above
 
 ### 4.2 Short Answer
 
