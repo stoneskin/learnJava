@@ -1,43 +1,87 @@
 # Learn Java
 
-**Learning Java for AP Computer Science A**  
+**Learning Java for AP Computer Science A Exam**  
 
-Code example for my Java Coding Class <https://stoneskin.github.io/Java/>{:target="_blank"}
+*Source Code this course <https://github.com/stoneskin/learnJava>{:target="_blank"}*
 
-**Code of this page**: <https://github.com/stoneskin/learnJava>
 
 ## Part 0 - Preparation for Class
 
 ### 00 - [HelloWorld Code Samples and Java build](./00_HelloWorld/index.md){:target="_blank"}
-
+<details>
+  <summary>details</summary>
     - Run and build Java file
     - Sample 1:  HelloWorld.java
     - Sample 2:  Multiple Java files
     - use MANIFEST.MF file to build a Jar file
+</details>
 
-## Part 2 - Introduction to Programming
+### Part 0: preparation for the class (1 Lesson)
 
-### 01 - [Java Fundamentals](./01_JavaFundamentals/){:target="_blank"}
+- Lesson 0: [Introduction to AP CSA, Course Overview and Get Start Java programming Environment](00_Getting_Stared_with_Java_Hello_World.md){:target="_blank"}
+   Learn Java [HelloWorld Samples](./00_HelloWorld/index.md){:target="_blank"}
 
-    - Variables
-    - Data Types
-    - Operators
-    
+### Part 1: Introduction to Programming (6 Lessons)
 
-### 02 - [Introduction to Input/Output](./02_Introduction_InputOutput/){:target="_blank"}
+- Lesson 1: [Java Fundamentals (variables, data types, operators)](./01_JavaFundamentals/){:target="_blank"}
+- Lesson 2: [Introduction to Input/Output](./02_Introduction_InputOutput/){:target="_blank"} (using Scanner class)
+- Lesson 3: Control Flow Statements (if-else, switch statements)
+- Lesson 4: Loops (for loop, while loop)
+- Lesson 5: Methods (defining, calling, parameters, return values)
+- Lesson 6: Debugging Techniques - Identifying and Fixing Errors
 
-    - System.out 
-    - System.in
-    - Scanner 
-    - PrintWriter 
-    - File I/O
+### Part 2: Arrays and Strings (6 Lessons)
 
-### 03 - Control Flow Statements
+- Lesson 7: Arrays - Declaring, Initializing, Accessing Elements
+- Lesson 8: Array Operations (traversing, searching, sorting)
+- Lesson 9: Multidimensional Arrays
+- Lesson 10: Strings - Declaring, Methods (length(), charAt(), substring()), String Manipulation
+- Lesson 11: String Formatting and Parsing
+- Lesson 12: Case Studies using Arrays and Strings
 
-### 04 - Loops
+### Part 3: Object-Oriented Programming (6 Lessons)
 
-### 05 - Methods
+- Lesson 13: Introduction to OOP - Classes and Objects
+- Lesson 14: Encapsulation and Access Modifiers
+- Lesson 15: Constructors
+- Lesson 16: Inheritance - Polymorphism and Superclass/Subclass Relationships
+- Lesson 17: Interfaces and Abstract Classes
+- Lesson 18: Case Studies using OOP Concepts
 
-### 06 - Debugging Techniques
+### Part 4: Algorithm Design and Analysis (6 Lessons)
+
+- Lesson 19: Big O Notation - Understanding Time and Space Complexity
+- Lesson 20: Algorithm Design Strategies (divide and conquer, recursion)
+- Lesson 21: Searching Algorithms (linear search, binary search)
+- Lesson 22: Sorting Algorithms (selection sort, bubble sort, insertion sort, merge sort)
+- Lesson 23: Recursion - Understanding Recursive Functions
+- Lesson 24: Efficiency Analysis of Algorithms - Choosing the Best Approach
+
+### Part 5: Advanced Topics and Review (6 Lessons)
+
+- Lesson 25: Collections Framework (ArrayList, LinkedList)
+- Lesson 26: Two-Dimensional Graphics and JavaFX Introduction (Optional)
+- Lesson 27: File I/O - Reading and Writing Data Files
+- Lesson 28: Exceptions Handling - Identifying and Handling Errors
+- Lesson 29: AP Exam Review - Focus on Key Concepts and Practice Problems
+- Lesson 30: Mock Exam – Simulated Testing Environment with Timed Practice
+
+### Additional Resources
+
+   1. <https://www.learnjavaonline.org/>{:target="_blank"}
+   2. <https://beginnersbook.com/java-tutorial-for-beginners-with-examples/>{:target="_blank"}
+   3. <https://www.w3schools.com/java/>{:target="_blank"}
+   4. <https://www.tutorialspoint.com/java/>{:target="_blank"}
+   5. <https://codingbat.com/java>{:target="_blank"}
+   6. <https://docs.oracle.com/javase/tutorial/>{:target="_blank"}
+   7. <https://www.javatpoint.com/java-tutorial>{:target="_blank"}
+   8. <https://www.codecademy.com/learn/learn-java>{:target="_blank"}
+   10. <https://apcentral.collegeboard.org/courses/ap-computer-science-a>{:target="_blank"}
+   11. <https://code.org/curriculum/csa>{:target="_blank"}
+   12. <https://help.fiveable.me/article/68-finding-ap-comp-sci-a-content>{:target="_blank"}
+   13. <https://en.wikipedia.org/wiki/AP_Computer_Science_A>{:target="_blank"}
 
 
+## Source Code of this course
+
+<https://github.com/stoneskin/learnJava>
