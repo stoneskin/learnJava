@@ -201,6 +201,7 @@ also call Comparison Operators
     > c) 1
     > d) 0
     
+>
 ```java
     boolean x = true;
     boolean y = false;
@@ -209,14 +210,18 @@ also call Comparison Operators
 
 6. What is the value of the variable x after the following code executes?
     > a) 5
+
     > b) 3
+
     > c) 8
+
     > d) 2
-    
-```Java
-    int x = 5;
-    x += 3;
-```
+
+    >```Java
+    >    int x = 5;
+    >    x += 3;
+    >```
+
 7. Which operator would you use to determine if a number is even
     > a) /
     > b) %
