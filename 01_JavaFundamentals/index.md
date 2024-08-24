@@ -166,10 +166,7 @@ also call Comparison Operators
 ### 4.1 Multiple Choice
 
 1. What is the correct way to declare a variable of type integer with a value of 100?
-    > a) int x = 100;
-    > b) integer x = 100;
-    > c) x = 100;
-    > d) int x = 100.0;
+    > a) int x = 100;<br> b) integer x = 100;<br> c) x = 100;<br> d) int x = 100.0;
 
 2. Which of the following is not a primitive data type in Java?
     > a) int
@@ -180,45 +177,41 @@ also call Comparison Operators
 3. What is the output of the following code?
 
     >```java
-    >    int a = 10;
-    >    int b = 3;
-    >    System.out.println(a % b);
+    >   int a = 10;
+    >   int b = 3;
+    >   System.out.println(a % b);
     >```
-
     > a) 3 <br> b) 1<br> c) 0<br> d) 3.33
 
 4. Which operator is used for logical AND in Java?
     > a) &
-    > b) ||
-    > c) &&
-    > d) AND
+     b) ||
+     c) &&
+     d) AND
 
 5. What is the result of the following expression?
+
+    >```java
+    >    boolean x = true;
+    >    boolean y = false;
+    >    System.out.println(x || y);
+    >```
     > a) true
-    > b) false
-    > c) 1
-    > d) 0
+     b) false
+     c) 1
+     d) 0
     
->
-```java
-    boolean x = true;
-    boolean y = false;
-    System.out.println(x || y);
-```
 
 6. What is the value of the variable x after the following code executes?
-    > a) 5
-
-    > b) 3
-
-    > c) 8
-
-    > d) 2
-
+    
     >```Java
     >    int x = 5;
     >    x += 3;
     >```
+    > a) 5
+     b) 3
+     c) 8
+     d) 2
 
 7. Which operator would you use to determine if a number is even
     > a) /
