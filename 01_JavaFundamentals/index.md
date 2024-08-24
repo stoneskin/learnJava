@@ -178,17 +178,15 @@ also call Comparison Operators
     > d) char
 
 3. What is the output of the following code?
-    > a) 3
-    > b) 1
-    > c) 0
-    > d) 3.33
 
-```java
-    int a = 10;
-    int b = 3;
-    System.out.println(a % b);
-```
- 
+    >```java
+    >    int a = 10;
+    >    int b = 3;
+    >    System.out.println(a % b);
+    >```
+
+    > a) 3 <br> b) 1<br> c) 0<br> d) 3.33
+
 4. Which operator is used for logical AND in Java?
     > a) &
     > b) ||
