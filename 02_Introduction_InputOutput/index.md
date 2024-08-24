@@ -115,8 +115,8 @@ Input/Output (I/O) in Java refers to the process of reading data from a source (
     e) A runtime error will occur
 
     ><details>
-    >*<summary>Answer</summary>*
-    >(*D is correct. After reading the integer 42 with nextInt(), the newline character is left in the input buffer. The subsequent nextLine() consumes this newline, resulting in an empty string being assigned to s.*)
+    ><summary><i>Answer</i></summary>
+    >(<i>D is correct. After reading the integer 42 with nextInt(), the newline character is left in the input buffer. The subsequent nextLine() consumes this newline, resulting in an empty string being assigned to s.</i>)
     ></details>
 
 3. Which of the following statements about System.out.printf() is true?
@@ -137,8 +137,8 @@ Input/Output (I/O) in Java refers to the process of reading data from a source (
         d) It appends data to an existing file named "data.txt" <br> 
         e) It renames a file to "data.txt"
     ><details>
-    ><summary>Answer</summary>
-    >   (*B is correct. This code creates a new empty file named "data.txt" or overwrites an existing file with that name.*)
+    ><summary><i>Answer</i></summary>
+    >   (<i>B is correct. This code creates a new empty file named "data.txt" or overwrites an existing file with that name.</i>)
     ></details>
 5. Which of the following is the correct way to read a double value from user input using a Scanner object named input?
     > a) `double d = input.nextDouble();` <br> 
@@ -162,4 +162,4 @@ Input/Output (I/O) in Java refers to the process of reading data from a source (
 1. Write a Java program that prompts the user to enter their name and age. Then, print a greeting message that includes the user's name and age.
 
 2. Write a Java method named calculateAverage that takes the path to a text file as an argument. This file contains numbers, one per line. The method should read these numbers, calculate their average, and print the result. Handle possible exceptions, and ensure resources are properly closed.
-[answer](https://gist.github.com/stoneskin/294f517e0a138fcad5487e8a8ecc8d6d)
+    > [*Answer*](https://gist.github.com/stoneskin/294f517e0a138fcad5487e8a8ecc8d6d)
