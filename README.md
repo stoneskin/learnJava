@@ -30,8 +30,8 @@ Each student needs below items for this class**
 ### Part 1: Introduction to Programming (6 Lessons)
 
 - Lesson 1: [Java Fundamentals (variables, data types, operators)](./01_JavaFundamentals/){:target="_blank"}
-- Lesson 2: [Introduction to Input/Output](./02_Introduction_InputOutput/){:target="_blank"} (using Scanner class)
-- Lesson 3: Control Flow Statements (if-else, switch statements)
+- Lesson 2: [Introduction to Input/Output (using Scanner class)](./02_Introduction_InputOutput/){:target="_blank"}
+- Lesson 3: [Control Flow Statements (if-else, switch statements)](./03_ControlFlowStatement/index.md){:target="_blank"}
 - Lesson 4: Loops (for loop, while loop)
 - Lesson 5: Methods (defining, calling, parameters, return values)
 - Lesson 6: Debugging Techniques - Identifying and Fixing Errors

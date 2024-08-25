@@ -157,7 +157,7 @@ Input/Output (I/O) in Java refers to the process of reading data from a source (
 
 1. Explain the difference between System.out.print() and System.out.println()
 
-### 3.3 Coding Problem:
+### 3.3 Coding Problem
 
 1. Write a Java program that prompts the user to enter their name and age. Then, print a greeting message that includes the user's name and age.
 
