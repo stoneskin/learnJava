@@ -32,15 +32,15 @@ In this example, the for loop initializes the variable `i` to 0, checks if `i` i
 A while loop is used to execute a block of code repeatedly as long as a specified condition is true. The syntax for a while loop is as follows:
 
 Syntax:
-```java 
 
+```java 
 while (condition) {
     // Code to be executed
 }
 ```
 
-
 Example:
+
 ```java
 int i = 0;
 while (i < 10) {
@@ -57,10 +57,43 @@ In this example, the while loop checks if `i` is less than 10. If it is, the cod
 >-    For Loop: Use when the number of iterations is known beforehand. It is often used with arrays or collections where the size is fixed.
 >-   While Loop: Use when the number of iterations is not known beforehand. It is often used in situations where the loop termination depends on a condition that changes over time.
 
+## 4. do-while Loops
+
+A do-while loop is similar to a while loop, but it guarantees that the code inside the loop is executed at least once. The syntax for a do-while loop is as follows:
+
+
+Syntax:
+
+```java 
+do {
+    // Code to be executed
+} while (condition);
+
+```
+
+Example:
+
+```java
+int i = 0;  
+
+do {
+    System.out.println(i);
+    i++;
+} while (i < 10);
+```
+
+In this example, the do-while loop checks if `i` is less than 10. If it is, the code inside the loop is executed, and `i` is then incremented by 1. This process repeats until `i` is no longer less than 10. The loop then terminates, and the code after the loop is executed.
+
+
+
+
+
+
 ## 4. Choosing Between For and While Loops
 
 >- Use a for loop when you know the number of iterations in advance
 >- Use a while loop when you don't know how many times the loop will execute
+>- Do-While Loop: Use when the loop body must be executed at least once 
 
 ## 5. Common Loop Patterns
 
@@ -158,12 +191,15 @@ Output:
 
 1. What is the correct syntax for a for loop in Java?
 
-- A. for (int i = 0; i < 10; i++)
-- B. for (int i = 0; i < 10; i--)
-- C. for (int i = 0; i > 10; i++)
-- D. for (int i = 0; i < 10; i = i + 2)
+> A) for (int i = 0; i < 10; i++)
+> B) for (int i = 0; i < 10; i--)
+> C) for (int i = 0; i > 10; i++)
+> D) for (int i = 0; i < 10; i = i + 2)
 
-Answer: A
+> <details>
+> <summary><i>Answer</i></summary>
+> Answer: A
+> </details>
 
 2. What is the output of the following code snippet?
 
@@ -179,10 +215,10 @@ while (i < 5) {
 > C) 0 1 2 3 4 5   <br> 
 > D) 1 2 3 4  
 
-    > <details>
-    > <summary><i>Answer</i></summary>
-    > Answer: A
-   > </details>
+> <details>
+> <summary><i>Answer</i></summary>
+> Answer: A
+> </details>
 
 3. Which loop is more appropriate for iterating over a known range of numbers?
 
@@ -191,10 +227,10 @@ while (i < 5) {
 > C) Both are equally appropriate   <br> 
 > D) Neither   
 
-   > <details>
-   > <summary><i>Answer</i></summary>
-   > Answer: A
-   > </details>
+> <details>
+> <summary><i>Answer</i></summary>
+> Answer: A
+> </details>
 
 4. Which of the following is true about the while loop?
 
@@ -204,9 +240,9 @@ while (i < 5) {
 > D) It cannot be used to iterate over a collection.
 
 > <details>
-    > <summary><i>Answer</i></summary>
-    > Answer: C
-   > </details>
+> <summary><i>Answer</i></summary>
+> Answer: C
+> </details>
 
 5. What is the output of the following code snippet?
 
@@ -223,11 +259,11 @@ while (i < 5) {
 > C) 0 1 2 3 4 5   <br> 
 > D) 1 2 3 4
 
-    > <details>
-    > <summary><i>Answer</i></summary>
-    > Answer: A
-    > Explanation: The do-while loop executes the block of code at least once before checking the condition. It starts with i equal to 0, prints i, increments i by 1, and continues until i is no longer less than 5, resulting in the output 0 1 2 3 4.
-   > </details>
+> <details>
+> <summary><i>Answer</i></summary>
+> Answer: A
+> Explanation: The do-while loop executes the block of code at least once before checking the condition. It starts with i equal to 0, prints i, increments i by 1, and continues until i is no longer less than 5, resulting in the output 0 1 2 3 4.
+> </details>
 
 6. Which loop should be used when you need to ensure that the loop body is executed at least once?
 
